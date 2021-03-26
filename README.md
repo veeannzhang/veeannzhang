@@ -7,4 +7,4 @@ carroll-alice, milton-paradise, melville-moby_dic
 
 All details are shown in the jupyter notebook.
 
-Demo Link: https://veeannzhang.github.io/hw4/
+Demo Link: https://veeannzhang.github.io/Gutenberg Books Classification Project/
